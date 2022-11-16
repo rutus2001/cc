@@ -53,6 +53,8 @@ delay(Del);
 
 EXP 1C
 HEX COUNTER
+
+
 #include <reg51.h>
 # define del 2000
 void delay (unsigned int x)//delay function {
